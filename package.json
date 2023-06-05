@@ -1,0 +1,32 @@
+{
+  "name": "12-nftpage",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/akaya-telivigala": "^4.5.8",
+    "@fontsource/sora": "^4.5.10",
+    "gsap": "^3.11.4",
+    "react": "^18.2.0",
+    "react-confetti": "^6.1.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.6.1",
+    "react-use": "^17.4.0",
+    "react-use-window-size": "^1.0.1",
+    "react-use-window-sizes": "^1.0.3",
+    "styled-components": "^5.3.6",
+    "swiper": "^8.4.5",
+    "typewriter-effect": "^2.19.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^3.0.0",
+    "vite": "^4.0.0"
+  }
+}
